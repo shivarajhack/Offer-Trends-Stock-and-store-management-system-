@@ -1,0 +1,6 @@
+{
+  "name": "Offer Trends Retail ERP",
+  "description": "Premium Retail ERP and Inventory management system for Offer Trends. Manage stores, products, staff, suppliers, POS offline billing, stock transfers, and web-sync APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
